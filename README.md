@@ -2,7 +2,8 @@
 
 Learn Istio Fundamentals from below. (Both are free)
 
-1. Tetrate - https://tetrate-academy.thinkific.com/courses/take/istio-fundamentals/
+**Tetrate - https://tetrate-academy.thinkific.com/courses/take/istio-fundamentals/
+**
 
 Theory:
 1. Service Mesh and Istio Overview
@@ -23,8 +24,8 @@ Hands-on:
 6. Access Control
 7. Connecting a VM to Istio Service Mesh. 
 
-
-2. Solo - https://academy.solo.io/get-started-with-istio
+**Solo - https://academy.solo.io/get-started-with-istio
+**
 
 Theory:
 1. Overview of Microservices and MSA
