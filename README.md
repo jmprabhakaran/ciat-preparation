@@ -21,7 +21,8 @@ Hands-on:
 4. Advanced Traffic Routing
 5. Enable mTLS
 6. Access Control
-7. Connecting a VM to Istio Service Mesh
+7. Connecting a VM to Istio Service Mesh. 
+
 
 2. Solo - https://academy.solo.io/get-started-with-istio
 
